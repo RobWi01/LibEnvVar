@@ -10,10 +10,10 @@ We use the dotenv library in Python and the Polygon-api-client library
   ```sh
   pip install python-dotenv
   ```
-  Make sure to install this version: pip install polygon-api-client==0.2.11
+  Make sure to install this version:
   * Pip
   ```sh
-  pip install python-dotenv
+  pip install polygon-api-client==0.2.11
   ```
 
 <!-- USAGE EXAMPLES -->
