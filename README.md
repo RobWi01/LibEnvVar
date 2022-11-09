@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
