@@ -11,7 +11,8 @@ We use the dotenv library in Python and the Polygon-api-client library
   pip install python-dotenv
   ```
   Make sure to install this version:
-  * Pip
+ 
+ * Pip
   ```sh
   pip install polygon-api-client==0.2.11
   ```
